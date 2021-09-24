@@ -1,2 +1,3 @@
 # Mirrorpad
-Left-handed numpad case with mirrored layout
+
+Left-handed hand-wired numpad case with mirrored layout
